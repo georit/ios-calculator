@@ -1,0 +1,1 @@
+The goal of this project is to rebuild the iOS calculator using HTML, CSS and JS.
